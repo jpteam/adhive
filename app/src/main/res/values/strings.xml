@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">C1X Mobile</string>
+
+    <string-array name="type_list">
+        <item>Banner Ads</item>
+        <item>Popup Ads</item>
+        <item>Interstitial Ads</item>
+        <item>Native Adapter Ads</item>
+        <item>Native Ads</item>
+    </string-array>
+
+    <string-array name="size_list">
+        <item>320x50</item>
+        <item>320x100</item>
+        <item>300x250</item>
+        <item>480x32</item>
+    </string-array>
+
+</resources>
