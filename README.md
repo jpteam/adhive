@@ -1,3 +1,3 @@
-# AdHive
+# C1X Mobile Demo App
 C1X Mobile SDK
-Current Version : 0.9.1
+Current Version : 1.0.1
